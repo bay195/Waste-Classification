@@ -2,4 +2,5 @@
 - Test.zip dataset test   
 - Waste-Classification.ipynb notebook colab keseluruhan model   
 - changename.py mengubah nama file   
-- movefile.py membagi data training 70% & validation 30%  
+- movefile.py membagi data training 70% & validation 30%    
+- EfficientNetB1 Model https://drive.google.com/file/d/107ylJJ97Rs9ongkIQDf-dcHQ1ymTZv8F/view?usp=sharing
